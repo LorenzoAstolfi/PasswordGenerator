@@ -1,4 +1,4 @@
-# Password Generator 🔐
+# 🔐 Password Generator 
 
 This is a simple project written in Python!
 
